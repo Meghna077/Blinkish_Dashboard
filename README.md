@@ -1,0 +1,1 @@
+To provide insight into the performance and operations of the online grocery delivery service Blinkit, a comprehensive data analysis and visualization tool known as the Blinkit Dashboard project was developed. Utilizing Power BI, the dashboard transforms unstructured data into informative visualizations that aid in decision-making.
